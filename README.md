@@ -1,2 +1,2 @@
 My first readme
-Looking forward
+Looking ahead
